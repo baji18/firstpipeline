@@ -21,3 +21,9 @@ class Main {
 
 
 
+baji
+kiran
+sirigiri
+
+
+
